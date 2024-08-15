@@ -33,7 +33,10 @@
   "dependencies": {
     "@edge-csrf/nextjs": "2.2.2",
     "@hookform/resolvers": "^3.7.0",
+<<<<<<< HEAD
     "@keystatic/next": "^5.0.1",
+=======
+>>>>>>> d1b1e823bfe22ad0723c8ab8d727f32489246d80
     "@kit/accounts": "workspace:^",
     "@kit/admin": "workspace:^",
     "@kit/auth": "workspace:^",
@@ -43,7 +46,10 @@
     "@kit/database-webhooks": "workspace:^",
     "@kit/email-templates": "workspace:^",
     "@kit/i18n": "workspace:^",
+<<<<<<< HEAD
     "@kit/keystatic": "workspace:*",
+=======
+>>>>>>> d1b1e823bfe22ad0723c8ab8d727f32489246d80
     "@kit/mailers": "workspace:^",
     "@kit/monitoring": "workspace:^",
     "@kit/next": "workspace:^",
@@ -109,4 +115,8 @@
     "> 0.2%",
     "not dead"
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d1b1e823bfe22ad0723c8ab8d727f32489246d80

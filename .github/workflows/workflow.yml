@@ -11,7 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     env:
       SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+<<<<<<< HEAD
       SUPABASE_DB_WEBHOOK_SECRET: ${{ secrets._WEBHOOK_SECRET }}
+=======
+      SUPABASE_DB_WEBHOOK_SECRET: ${{ secrets.SUPABASE_DB_WEBHOOK_SECRET }}
+>>>>>>> d1b1e823bfe22ad0723c8ab8d727f32489246d80
       STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
       STRIPE_WEBHOOK_SECRET: ${{ secrets.STRIPE_WEBHOOK_SECRET }}
 
